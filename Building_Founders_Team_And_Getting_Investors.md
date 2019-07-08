@@ -23,4 +23,6 @@
 ![The pitch email Lloyd Tabb sent to Bill Trenchard and Marc Randolph during Looker’s seed raise in 2012](./images/216_words_encapsulated_Looker_pitch_email.png)
 
 
-* “In the online world, you can't see what's going on physically. I've always thought building a tech-based startup is a bit like flying: There’s VFR, where the conditions are clear and you can see the runway, and there's IFR, where visibility is poor so you have to rely on your instruments,” says Tabb.*
+* “In the online world, you can't see what's going on physically. I've always thought building a tech-based startup is a bit like flying: There’s VFR, where the conditions are clear and you can see the runway, and there's IFR, where visibility is poor so you have to rely on your instruments,” 
+
+* “All tech businesses are IFR. You can't see your customer. But the problem in 2011 was that most companies didn’t have instruments. So they were trying to fly, but they couldn’t see very well. And our bet was that if we could bring them tools to see, their businesses would take off. Several early Looker customers turned into unicorns. I’m obviously a bit biased here, but I think part of that is because they had a really good handle on their data. They could fly.” says Tabb
