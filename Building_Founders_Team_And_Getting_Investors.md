@@ -18,3 +18,5 @@
   - Don’t raise seed money too early.
     - to self-sustain and delay hitting the investor circuit at first.
     - If you can’t demonstrate value, you’re asking investors to take it on faith. You’re asking them to take it on who you are, as opposed to the proof points sitting in front of them.
+
+![The pitch email Lloyd Tabb sent to Bill Trenchard and Marc Randolph during Looker’s seed raise in 2012](./images/216 words encapsulated_Looker pitch email.png)
