@@ -21,3 +21,6 @@
 
 ### The pitch email Lloyd Tabb sent to Bill Trenchard and Marc Randolph during Looker’s seed raise in 2012 
 ![The pitch email Lloyd Tabb sent to Bill Trenchard and Marc Randolph during Looker’s seed raise in 2012](./images/216_words_encapsulated_Looker_pitch_email.png)
+
+
+* “In the online world, you can't see what's going on physically. I've always thought building a tech-based startup is a bit like flying: There’s VFR, where the conditions are clear and you can see the runway, and there's IFR, where visibility is poor so you have to rely on your instruments,” says Tabb.*
