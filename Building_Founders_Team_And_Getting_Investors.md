@@ -9,6 +9,7 @@
     - If you’re building the same thing over and over again, that’s a signal that there might be a startup idea in there
   - standing out in the market,
     - STAND OUT IN THE CROWD BY DOUBLING DOWN ON BIG BETS AND DEMOING HOW YOU’RE DIFFERENT
+        - Don’t shy away from a crowded market, even if it’s tough to deliver a differentiated message.
   - experimenting with different models, 
     - the best founders go deep on a problem, understand all its nuances, and really immerse themselves in the customer’s pain point.
   - scaling sales, 
