@@ -25,6 +25,10 @@
   - Don’t raise seed money too early.
     - to self-sustain and delay hitting the investor circuit at first.
     - If you can’t demonstrate value, you’re asking investors to take it on faith. You’re asking them to take it on who you are, as opposed to the proof points sitting in front of them.
+  - Monitoring Usage before asking for Money from Buyers
+    - You need to work double time to demonstrate value very quickly pre-sales. If you can prove value early on, then the money will always show up in your bank account later.
+  - Replace yourself to scale faster — even if you’re the CEO.
+
 
 ### The pitch email Lloyd Tabb sent to Bill Trenchard and Marc Randolph during Looker’s seed raise in 2012 
 ![The pitch email Lloyd Tabb sent to Bill Trenchard and Marc Randolph during Looker’s seed raise in 2012](./images/216_words_encapsulated_Looker_pitch_email.png)
@@ -60,4 +64,6 @@
     
     
     
+* This also informed the early product strategy. “We built monitoring tools into the product incredibly early on to make sure that we could tell if they were using it. I’d only try to close the deal once we saw the product starting to catch on around the organization — I’d never go ask for money until there was clear momentum of usage,” says Tabb. “The downside of this approach was that some of the trials ran a really long time. If we didn’t see that momentum, I’d go back in and be more hands-on to make sure they understood how we could answer all of their data questions.”
 
+* “As a repeat founder, I often like to say that I’m a one-man band. I’ve played all the instruments and can do just about every startup job. But that doesn’t mean I do them all well. Keep the instrument you’re best at, and give the rest away.
