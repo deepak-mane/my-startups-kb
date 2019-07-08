@@ -13,6 +13,8 @@
   - standing out in the market,
     - STAND OUT IN THE CROWD BY DOUBLING DOWN ON BIG BETS AND DEMOING HOW YOU’RE DIFFERENT
         - Don’t shy away from a crowded market, even if it’s tough to deliver a differentiated message.
+    - (Demo)nstrate value.
+        - We knew the only way to be successful was to show the goods. You know the saying, “All hat, no cattle”? We had to have the cattle.
   - experimenting with different models, 
     - the best founders go deep on a problem, understand all its nuances, and really immerse themselves in the customer’s pain point.
   - scaling sales, 
@@ -37,16 +39,25 @@
 * This was exactly the point Tabb was trying to get across. “It was — and still is — a crowded market of similar products taking different approaches. Yes, there are a bunch of products in the market that access data. They all sound the same. But there wasn't anything that did what we were trying to do,” says Trenchard.
 
 
-
-
-
-
-
 ### Here are Tabb’s thoughts on how they explored these different models:
 
-    - Consulting: “Liftopia was an early customer that didn't have a data person on their team. We treated this initial engagement as a consulting contract. When they needed something, they called. We were operating as a for-hire-data-team,” says Tabb. “We also did other consulting gigs where we helped customers move their data from a MongoDB database into an analytical one, and while that worked, it wasn't nearly as good.”
+    - Consulting: “Liftopia was an early customer that didn't have a data person on their team. 
+    We treated this initial engagement as a consulting contract. When they needed something, they called.
+    We were operating as a for-hire-data-team,” says Tabb. “We also did other consulting gigs where 
+    we helped customers move their data from a MongoDB database into an analytical one, and while that worked, 
+    it wasn't nearly as good.”
 
-    - Stand-alone product: “With another early customer, the buyer was very familiar with the database marketplace and tools, so he was a great person to just hand the software over to and let him try on his own,” says Tabb. “It worked well — they’re still a customer today actually — but we saw that this self-serve approach led him to miss a lot of the value that we'd captured with other customers.”
+    - Stand-alone product: “With another early customer, the buyer was very familiar with the database 
+    marketplace and tools, so he was a great person to just hand the software over to and let him try on 
+    his own,” says Tabb. “It worked well — they’re still a customer today actually — but we saw that this 
+    self-serve approach led him to miss a lot of the value that we'd captured with other customers.”
 
-    - Combination. “Another one of our early customers was SimplyHired. We tried a consulting engagement with them at first because the product was so early that it wasn't baked enough to actually have anyone use it. So I had to go in there and hook it up to their data and teach their engineers how to program in LookML by sitting next to them,” says Tabb. “Eventually they were up and running, and as we added other features, they were able to use the product on their own.”
+    - Combination. “Another one of our early customers was SimplyHired. We tried a consulting engagement
+    with them at first because the product was so early that it wasn't baked enough to actually 
+    have anyone use it. So I had to go in there and hook it up to their data and teach their engineers
+    how to program in LookML by sitting next to them,” says Tabb. “Eventually they were up and running, 
+    and as we added other features, they were able to use the product on their own.”
+    
+    
+    
 
