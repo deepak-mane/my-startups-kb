@@ -4,6 +4,8 @@
 
 ## Summary:-
   - finding the idea, 
+    - IDEA: START WITH A CRISP THESIS AND DON’T RAISE TOO EARLY
+    - Future founders, start with a really strong thesis on the problem you’re going to tackle. If you’re missing that first crucial ingredient, it’s best to keep your company building dreams on a low simmer while you work to figure one out.
   - standing out in the market, 
   - experimenting with different models, 
   - scaling sales, 
